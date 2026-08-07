@@ -1,0 +1,8 @@
+{
+    "type": "module",
+    "scripts":{
+        "day1":"node index.js",
+        "day2":"node day-two.js",
+        "day3":"node first-meet-fetch.js"
+    }
+}
